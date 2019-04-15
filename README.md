@@ -1,0 +1,1 @@
+This is Andrei Craciun's first git project!
